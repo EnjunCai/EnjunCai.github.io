@@ -1,0 +1,1 @@
+import{d as o,e as n,f as e,m as _,F as r,u as c,c as d,_ as u}from"./index-e22c770e.js";const l={class:"main"},p=o({__name:"StudyNavbar",setup(i){const a=c(),s=()=>{a.push("/study")};return(t,m)=>(d(),n(r,null,[e("div",{class:"header",onClick:s},"返回"),e("div",l,[_(t.$slots,"main",{},void 0,!0)])],64))}});const f=u(p,[["__scopeId","data-v-bd993af4"]]);export{f as S};
