@@ -1,1 +1,0 @@
-System.register(["./@vue-legacy-7c93e293.js"],(function(e,t){"use strict";var n,u,r,c,s;return{setters:[function(e){n=e.d,u=e.b,r=e.c,c=e.T,s=e.o}],execute:function(){e("default",n({__name:"404",setup:function(e){var t=u("404");return function(e,n){return s(),r("h1",null,c(t.value),1)}}}))}}}));
