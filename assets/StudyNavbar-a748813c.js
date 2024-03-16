@@ -1,0 +1,1 @@
+import{u as o}from"./vue-router-3cdb739e.js";import{d as t,c as s,H as a,o as _}from"./@vue-eaa1d06e.js";import{_ as r}from"./index-1659c52c.js";const n={class:"main"},c=t({__name:"StudyNavbar",setup(d){return o(),(e,p)=>(_(),s("div",n,[a(e.$slots,"main",{},void 0,!0)]))}});const l=r(c,[["__scopeId","data-v-2b1c660d"]]);export{l as S};
