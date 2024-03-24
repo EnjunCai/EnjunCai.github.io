@@ -1,0 +1,1 @@
+import{_ as e}from"./index-1b2d6ce5.js";import"./@codemirror-453f4d42.js";import"./@lezer-9e9c314f.js";import"./style-mod-ab9c37a6.js";import"./w3c-keyname-9fb136d3.js";/* empty css                     */const r={};function t(o,c){return Vue.openBlock(),Vue.createElementBlock("div",null,"123")}const a=e(r,[["render",t]]);export{a as default};
