@@ -1,0 +1,1 @@
+import{_ as t}from"./index-59f3382f.js";const _={class:"main"},o=Vue.defineComponent({__name:"StudyNavbar",setup(s){return vueRouter.useRouter(),(e,a)=>(Vue.openBlock(),Vue.createElementBlock("div",_,[Vue.renderSlot(e.$slots,"main",{},void 0,!0)]))}});const r=t(o,[["__scopeId","data-v-2b1c660d"]]);export{r as S};
